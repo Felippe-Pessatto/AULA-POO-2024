@@ -1,0 +1,7 @@
+EM CÓDIGO PYTHON RESPONDA:
+
+01 - O QUE É PYTHON?
+
+02 - Qual programa (IDE) executa o arquivo .py?
+
+03 - Qual Linguagem de programação Python substituiu?
